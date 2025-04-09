@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nb-dev-tutorial"
+  site-url: "https://frh-1.github.io/nb-dev-tutorial"
+  description: "A repo to try out nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/frh-1/nb-dev-tutorial"
